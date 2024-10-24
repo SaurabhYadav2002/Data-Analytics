@@ -1,0 +1,1 @@
+Introduction-Welcome to my assignments repository! This repository contains a collection of my academic assignments, projects, and exercises completed as part of my coursework. Each assignment is organized in its own folder, with files named according to the task requirements.
